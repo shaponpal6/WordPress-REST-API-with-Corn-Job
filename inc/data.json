@@ -1,0 +1,1332 @@
+[
+  {
+    "CHANGEDATE": "2021-01-20T12:59:53.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00270",
+    "QUARTEROFTOWN": "Meilahti",
+    "STREET": "Pihlajatie 38",
+    "FLAT_STRUCTURE": "2h, avok, kph",
+    "PRESENTATIONS": [
+      {
+        "PRESENTATION_START": "2021-02-07T14:40:00.000Z",
+        "PRESENTATION_END": "2021-02-07T15:20:00.000Z"
+      }
+    ],
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 39,
+    "REALTY_UNIQUE_NO": 21527197,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "234x180": "http://d372r717gpt3jp.cloudfront.net/itemimages/realty/www2/209.1350/img4752612672898196850.jpg",
+          "60x60": "http://d372r717gpt3jp.cloudfront.net/itemimages/realty/thumb/209.1350/img4895848267012387091.jpg",
+          "600x": "http://d372r717gpt3jp.cloudfront.net/itemimages/realty/www/209.1350/img2303873275947595260.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962736231-13926.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962736231-13926.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962736231-13926.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962736231-13926.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962736313-13927.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962736313-13927.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962736313-13927.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962736313-13927.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962736315-13928.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962736315-13928.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962736315-13928.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962736315-13928.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962736580-13929.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962736580-13929.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962736580-13929.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962736580-13929.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962738960-14060.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962738960-14060.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962738960-14060.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962738960-14060.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3869712/1610962739252-13930.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3869712/1610962739252-13930.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3869712/1610962739252-13930.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3869712/1610962739252-13930.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": 1945,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 319000,
+      "ASSIGNMENT_ID": 759415,
+      "UNENCUMBERED_PRICE": 319000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-05T07:13:20.000Z",
+    "REALTY_ID": 3869712,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-01-27T12:03:58.000Z",
+    "ITEMGROUP": "uudiskohteet",
+    "POSTCODE": "00580",
+    "QUARTEROFTOWN": "Kalasatama",
+    "STREET": "Capellanranta 10",
+    "FLAT_STRUCTURE": "1h+kt",
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 27,
+    "REALTY_UNIQUE_NO": 20835021,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3871837/1611061678273-3259.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3871837/1611061678273-3259.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3871837/1611061678273-3259.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3871837/1611061678273-3259.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3871837/1612427719078-18908.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3871837/1612427719078-18908.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3871837/1612427719078-18908.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3871837/1612427719078-18908.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": 2021,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 118060,
+      "ASSIGNMENT_ID": 761776,
+      "UNENCUMBERED_PRICE": 299500,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "NEW_APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-04T08:35:42.000Z",
+    "REALTY_ID": 3871837,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-01-22T12:11:57.000Z",
+    "ITEMGROUP": "vuokra-asunnot",
+    "POSTCODE": "00150",
+    "QUARTEROFTOWN": "Punavuori",
+    "STREET": "Kankurinkatu 7",
+    "FLAT_STRUCTURE": "1h, k, kph/wc, parvi",
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 43,
+    "REALTY_UNIQUE_NO": 21484081,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310201801-4241.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310201801-4241.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310201801-4241.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310201801-4241.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310201751-4300.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310201751-4300.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310201751-4300.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310201751-4300.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310201780-4301.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310201780-4301.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310201780-4301.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310201780-4301.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310202116-4302.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310202116-4302.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310202116-4302.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310202116-4302.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310203580-4303.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310203580-4303.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310203580-4303.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310203580-4303.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3872533/1611310203589-4242.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3872533/1611310203589-4242.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3872533/1611310203589-4242.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3872533/1611310203589-4242.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": 1931,
+    "ASSIGNMENT": {
+      "ASSIGNMENT_ID": 762549,
+      "STATUS_CODE": "FOR_RENT",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_RENT",
+      "RENT": 1200
+    },
+    "UPDATEDATE": "2021-01-25T16:57:12.000Z",
+    "REALTY_ID": 3872533,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-01-20T09:23:17.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00120",
+    "QUARTEROFTOWN": "Punavuori",
+    "STREET": "Punavuorenkatu 7",
+    "FLAT_STRUCTURE": "2h, kk, kph, parveke",
+    "PRESENTATIONS": [
+      {
+        "PRESENTATION_START": "2021-02-07T10:00:00.000Z",
+        "PRESENTATION_END": "2021-02-07T10:45:00.000Z"
+      }
+    ],
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 35,
+    "REALTY_UNIQUE_NO": 20521827,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "10",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134689833-5422.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134689833-5422.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134689833-5422.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134689833-5422.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134690087-5423.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134690087-5423.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134690087-5423.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134690087-5423.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134690095-5397.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134690095-5397.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134690095-5397.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134690095-5397.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134690140-5398.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134690140-5398.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134690140-5398.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134690140-5398.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134693194-5424.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134693194-5424.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134693194-5424.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134693194-5424.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134693523-5399.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134693523-5399.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134693523-5399.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134693523-5399.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "11",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134693856-5400.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134693856-5400.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134693856-5400.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134693856-5400.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "12",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134695671-5402.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134695671-5402.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134695671-5402.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134695671-5402.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "13",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134695815-5426.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134695815-5426.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134695815-5426.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134695815-5426.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134695919-5427.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134695919-5427.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134695919-5427.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134695919-5427.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134696076-5403.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134696076-5403.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134696076-5403.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134696076-5403.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134698765-5428.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134698765-5428.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134698765-5428.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134698765-5428.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "9",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3873266/1611134698781-5429.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3873266/1611134698781-5429.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3873266/1611134698781-5429.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3873266/1611134698781-5429.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": null,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 378264.71,
+      "ASSIGNMENT_ID": 763341,
+      "UNENCUMBERED_PRICE": 379000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-04T07:12:23.000Z",
+    "REALTY_ID": 3873266,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-01-26T17:42:04.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00140",
+    "QUARTEROFTOWN": "Ullanlinna",
+    "STREET": "Vuorimiehenkatu 15",
+    "FLAT_STRUCTURE": "2h, k, kph, halli",
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 80,
+    "REALTY_UNIQUE_NO": 9717867,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310148625-4288.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310148625-4288.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310148625-4288.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310148625-4288.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310148640-4231.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310148640-4231.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310148640-4231.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310148640-4231.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "9",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310150667-4289.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310150667-4289.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310150667-4289.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310150667-4289.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "10",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310150692-4290.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310150692-4290.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310150692-4290.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310150692-4290.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "11",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310150846-4233.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310150846-4233.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310150846-4233.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310150846-4233.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310150910-4234.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310150910-4234.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310150910-4234.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310150910-4234.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310151255-4291.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310151255-4291.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310151255-4291.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310151255-4291.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "12",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310151692-4235.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310151692-4235.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310151692-4235.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310151692-4235.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "13",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310153307-4239.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310153307-4239.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310153307-4239.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310153307-4239.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "14",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310153866-4240.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310153866-4240.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310153866-4240.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310153866-4240.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310155466-4296.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310155466-4296.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310155466-4296.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310155466-4296.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310155671-4297.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310155671-4297.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310155671-4297.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310155671-4297.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310155988-4298.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310155988-4298.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310155988-4298.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310155988-4298.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1611310156321-4299.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1611310156321-4299.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1611310156321-4299.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1611310156321-4299.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "15",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1612512941343-22837.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1612512941343-22837.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1612512941343-22837.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1612512941343-22837.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "16",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3874069/1612512941342-22836.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3874069/1612512941342-22836.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3874069/1612512941342-22836.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3874069/1612512941342-22836.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": 1911,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 827000,
+      "ASSIGNMENT_ID": 764177,
+      "UNENCUMBERED_PRICE": 827000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-05T08:15:52.000Z",
+    "REALTY_ID": 3874069,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-02-03T09:30:59.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00530",
+    "QUARTEROFTOWN": "Merihaka",
+    "STREET": "Hakaniemenranta 18",
+    "FLAT_STRUCTURE": "4h, k, kph, sauna, wc, lasitettu parveke",
+    "PRESENTATIONS": [
+      {
+        "PRESENTATION_START": "2021-02-07T13:00:00.000Z",
+        "PRESENTATION_END": "2021-02-07T14:00:00.000Z"
+      }
+    ],
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Helsinki",
+    "LIVING_AREA_M2": 100,
+    "REALTY_UNIQUE_NO": 20437599,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170895113-8784.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170895113-8784.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170895113-8784.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170895113-8784.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170895133-8688.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170895133-8688.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170895133-8688.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170895133-8688.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "9",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170895151-8785.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170895151-8785.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170895151-8785.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170895151-8785.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170895595-8689.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170895595-8689.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170895595-8689.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170895595-8689.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170898225-8690.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170898225-8690.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170898225-8690.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170898225-8690.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170898581-8691.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170898581-8691.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170898581-8691.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170898581-8691.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170898633-8786.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170898633-8786.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170898633-8786.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170898633-8786.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "10",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170901374-8692.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170901374-8692.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170901374-8692.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170901374-8692.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "11",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170902159-8693.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170902159-8693.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170902159-8693.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170902159-8693.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "12",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170902332-8694.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170902332-8694.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170902332-8694.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170902332-8694.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170902329-8787.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170902329-8787.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170902329-8787.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170902329-8787.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "13",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170903942-8695.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170903942-8695.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170903942-8695.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170903942-8695.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "14",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612170904125-8696.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612170904125-8696.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612170904125-8696.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612170904125-8696.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875148/1612255299167-11607.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875148/1612255299167-11607.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875148/1612255299167-11607.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875148/1612255299167-11607.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": null,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 649000,
+      "ASSIGNMENT_ID": 765329,
+      "UNENCUMBERED_PRICE": 649000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-05T07:20:39.000Z",
+    "REALTY_ID": 3875148,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-02-02T18:51:47.000Z",
+    "ITEMGROUP": "autotallit ja muut",
+    "POSTCODE": "02330",
+    "QUARTEROFTOWN": "Saunalahti",
+    "STREET": "Saunalahdenkatu 18",
+    "FLAT_STRUCTURE": "AP 6",
+    "REGION": "Uusimaa",
+    "MUNICIPALITY": "Espoo",
+    "LIVING_AREA_M2": 14,
+    "REALTY_UNIQUE_NO": 20972726,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875288/1612342558646-15189.png",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875288/1612342558646-15189.png",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875288/1612342558646-15189.png",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875288/1612342558646-15189.png"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3875288/1612342558670-15444.png",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3875288/1612342558670-15444.png",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3875288/1612342558670-15444.png",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3875288/1612342558670-15444.png"
+        }
+      }
+    ],
+    "TOWN": "Espoo",
+    "RC_BUILDYEAR": null,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 11000,
+      "ASSIGNMENT_ID": 761489,
+      "UNENCUMBERED_PRICE": 11000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-03T09:11:46.000Z",
+    "REALTY_ID": 3875288,
+    "REALTYTYPE": "autokatos"
+  },
+  {
+    "CHANGEDATE": "2021-02-04T17:13:38.000Z",
+    "ITEMGROUP": "vuokra-asunnot",
+    "POSTCODE": "00160",
+    "QUARTEROFTOWN": "Katajanokka",
+    "STREET": "Kruunuvuorenkatu 2",
+    "FLAT_STRUCTURE": "3h, avok., kph, erill. wc",
+    "MUNICIPALITY": "Helsinki",
+    "REGION": "Uusimaa",
+    "LIVING_AREA_M2": 80,
+    "REALTY_UNIQUE_NO": 20081030,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612457418375-21077.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612457418375-21077.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612457418375-21077.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612457418375-21077.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612457418403-21078.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612457418403-21078.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612457418403-21078.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612457418403-21078.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612458231148-21335.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612458231148-21335.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612458231148-21335.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612458231148-21335.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612458231150-21336.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612458231150-21336.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612458231150-21336.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612458231150-21336.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612458231197-21102.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612458231197-21102.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612458231197-21102.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612458231197-21102.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612458231379-21337.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612458231379-21337.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612458231379-21337.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612458231379-21337.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612513175413-22841.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612513175413-22841.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612513175413-22841.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612513175413-22841.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3877989/1612513175412-22572.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3877989/1612513175412-22572.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3877989/1612513175412-22572.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3877989/1612513175412-22572.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": null,
+    "ASSIGNMENT": {
+      "ASSIGNMENT_ID": 768461,
+      "STATUS_CODE": "FOR_RENT",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_RENT",
+      "RENT": 2480
+    },
+    "UPDATEDATE": "2021-02-05T08:19:44.000Z",
+    "REALTY_ID": 3877989,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-02-06T09:21:51.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00150",
+    "QUARTEROFTOWN": "Punavuori",
+    "STREET": "Pursimiehenkatu 20",
+    "FLAT_STRUCTURE": "2h, avok, kph, parveke",
+    "MUNICIPALITY": "Helsinki",
+    "REGION": "Uusimaa",
+    "LIVING_AREA_M2": 44,
+    "REALTY_UNIQUE_NO": 21698918,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524934077-23898.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524934077-23898.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524934077-23898.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524934077-23898.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524934062-23591.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524934062-23591.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524934062-23591.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524934062-23591.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524934140-23592.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524934140-23592.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524934140-23592.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524934140-23592.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524934362-23899.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524934362-23899.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524934362-23899.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524934362-23899.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524937009-23593.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524937009-23593.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524937009-23593.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524937009-23593.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "9",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524937247-23594.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524937247-23594.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524937247-23594.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524937247-23594.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "10",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524938693-23900.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524938693-23900.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524938693-23900.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524938693-23900.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524938910-23901.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524938910-23901.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524938910-23901.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524938910-23901.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524939655-23595.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524939655-23595.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524939655-23595.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524939655-23595.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524940011-23902.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524940011-23902.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524940011-23902.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524940011-23902.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "11",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524941732-23596.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524941732-23596.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524941732-23596.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524941732-23596.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "12",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3878235/1612524941783-23597.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3878235/1612524941783-23597.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3878235/1612524941783-23597.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3878235/1612524941783-23597.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": 1956,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 426094.97000000003,
+      "ASSIGNMENT_ID": 767788,
+      "UNENCUMBERED_PRICE": 429000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-06T09:22:39.000Z",
+    "REALTY_ID": 3878235,
+    "REALTYTYPE": "kerrostalo"
+  },
+  {
+    "CHANGEDATE": "2021-02-05T16:41:55.000Z",
+    "ITEMGROUP": "asunnot",
+    "POSTCODE": "00250",
+    "QUARTEROFTOWN": "Taka-Töölö",
+    "STREET": "Mannerheimintie 108",
+    "FLAT_STRUCTURE": "3h, k",
+    "PRESENTATIONS": [
+      {
+        "PRESENTATION_START": "2021-02-07T12:00:00.000Z",
+        "PRESENTATION_END": "2021-02-07T12:40:00.000Z"
+      }
+    ],
+    "MUNICIPALITY": "Helsinki",
+    "REGION": "Uusimaa",
+    "LIVING_AREA_M2": 76,
+    "REALTY_UNIQUE_NO": 21617408,
+    "COUNTRY": "Suomi",
+    "IMAGES": [
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "10",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703805086-9300.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703805086-9300.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703805086-9300.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703805086-9300.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "MAIN",
+        "SEQ": "1",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703805185-9301.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703805185-9301.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703805185-9301.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703805185-9301.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "3",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703805231-9184.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703805231-9184.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703805231-9184.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703805231-9184.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "6",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703805533-9185.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703805533-9185.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703805533-9185.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703805533-9185.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "5",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703809417-9186.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703809417-9186.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703809417-9186.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703809417-9186.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "4",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703809785-9302.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703809785-9302.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703809785-9302.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703809785-9302.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "8",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703810023-9303.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703810023-9303.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703810023-9303.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703810023-9303.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "7",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703810143-9187.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703810143-9187.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703810143-9187.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703810143-9187.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "11",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703813411-9188.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703813411-9188.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703813411-9188.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703813411-9188.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "12",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703815861-9190.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703815861-9190.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703815861-9190.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703815861-9190.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "13",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703816247-9191.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703816247-9191.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703816247-9191.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703816247-9191.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "GENERAL",
+        "SEQ": "9",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610703975462-9314.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610703975462-9314.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610703975462-9314.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610703975462-9314.jpg"
+        }
+      },
+      {
+        "IMAGE_IV_SELECT_FLAG": 1,
+        "TYPE": "FLOOR_PLAN",
+        "SEQ": "2",
+        "VERSIONS": {
+          "1200x1200": "https://d372r717gpt3jp.cloudfront.net/1200x1200,fit/kivimedia/images/realty/1243/3870168/1610713070507-10071.jpg",
+          "234x180": "https://d372r717gpt3jp.cloudfront.net/234x180,fit/kivimedia/images/realty/1243/3870168/1610713070507-10071.jpg",
+          "60x60": "https://d372r717gpt3jp.cloudfront.net/60x60,fit/kivimedia/images/realty/1243/3870168/1610713070507-10071.jpg",
+          "600x": "https://d372r717gpt3jp.cloudfront.net/600x,fit/kivimedia/images/realty/1243/3870168/1610713070507-10071.jpg"
+        }
+      }
+    ],
+    "TOWN": "Helsinki",
+    "RC_BUILDYEAR": null,
+    "ASSIGNMENT": {
+      "BID_WANTED_FLAG": 0,
+      "PRICE": 578501.97,
+      "ASSIGNMENT_ID": 768865,
+      "UNENCUMBERED_PRICE": 579000,
+      "STATUS_CODE": "FOR_SALE",
+      "ASSIGNMENT_TYPE_CODE": "APARTMENT_FOR_SALE",
+      "RENT": null
+    },
+    "UPDATEDATE": "2021-02-05T16:43:13.000Z",
+    "REALTY_ID": 3878358,
+    "REALTYTYPE": "kerrostalo"
+  }
+]
